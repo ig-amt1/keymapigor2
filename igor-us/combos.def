@@ -1,0 +1,16 @@
+
+CB(esc_combo, KC_ESC, KC_Q, KC_W)
+CB(CAPS_COMBO, KC_CAPS, KC_R ,KC_T)
+CB(backspace_combo, KC_BSPC, KC_O, KC_P)
+CB(DEL_COMBO, KC_DEL, KC_U, KC_Y)
+CB(ENT_COMBO, KC_ENT, KC_V, KC_B)
+CB(ENT1_COMBO, KC_ENT, KC_DOT, KC_SLSH)  
+CB(TAB_COMBO, KC_TAB, KC_Z, KC_X)
+
+
+
+
+
+
+
+
